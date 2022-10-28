@@ -1,13 +1,137 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+* {
+  text-align: center;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+input {
+  display: block;
+  margin: 10px 0;
+  width: 300px;
+}
+
+#submit {
+  width: 150px;
+  padding: 10px;
+  margin: 20px auto;
+}
+
+body {
+  margin: 50px;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  
+}
+
+h2 {
+  text-align: center;
+}
+
+#rikishiForm {
+  align-items: center;
+  padding: 10px 50px;
+  border: 5px solid black;
+}
+
+li {
+  list-style-type: none;
+}
+
+hr {
+  margin: 40px 0;
+}
+
+#FSFlex {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-evenly;
+  font-size: 20px;
+}
+
+#FSRikishi p {
+  font-weight: bold;
+  height: 23px;
+}
+
+.FSTeamContainer {
+  border: 2px solid black;
+  width: 48%;
+  height: 450px;
+}
+
+#FSTeamBottom {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  height: 40px;
+}
+
+#FSTeamBottom label {
+  font-size: 14px;
+}
+
+#FSTeamBottom input {
+  width: 150px;
+}
+
+.cards {
+  display: flex;
+  flex-flow: row nowrap;
+  flex-basis: auto;
+  overflow: scroll;
+  justify-content: left;
+  gap: 10px;
+}
+
+.ScrollCard {
+  border: 1px solid black;
+  padding: 10px;
+  width: 170px;
+}
+
+.ScrollCard h2 {
+  width: 170px;
+}
+
+.content {
+  text-align: center;
+  width: auto;
+}
+
+.content p { 
+  font-size: 16px;
+}
+
+.form input, .form label {
+  display: block;
+  margin: 10px auto;
+}
+
+.formBorder {
+  border: 2px solid black;
+  width: 400px;
+  margin: 0 auto;
+}
+
+
+
+.RLarge {
+  width: 48%;
+  border: 2px solid black;
+}
+
+.RLargeCard {
+  display: block;
+  width: 100%;
+}
+
+.mainFlex {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  gap: 20px;
+  margin: 40px;
 }

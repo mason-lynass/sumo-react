@@ -1,0 +1,444 @@
+{
+  "wrestlers": [
+    {
+      "shikona": "Terunofuji",
+      "id": 1,
+      "rank": "Y",
+      "highestrank": "Y",
+      "yusho": 7,
+      "kinboshi": 0,
+      "fsAki": 5,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20110008.jpg"
+    },
+    {
+      "shikona": "Takakeisho",
+      "id": 2,
+      "rank": "O",
+      "highestrank": "O",
+      "yusho": 1,
+      "kinboshi": 3,
+      "fsAki": 10,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20140083.jpg"
+    },
+    {
+      "shikona": "Shodai",
+      "id": 3,
+      "rank": "O",
+      "highestrank": "O",
+      "yusho": 1,
+      "kinboshi": 1,
+      "fsAki": 4,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20140019.jpg"
+    },
+    {
+      "shikona": "Mitakeumi",
+      "id": 5,
+      "rank": "O",
+      "highestrank": "O",
+      "yusho": 3,
+      "kinboshi": 2,
+      "fsAki": 4,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20150032.jpg"
+    },
+    {
+      "shikona": "Wakatakakage",
+      "id": 6,
+      "rank": "S",
+      "highestrank": "S",
+      "yusho": 1,
+      "kinboshi": 0,
+      "fsAki": 18,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20170011.jpg"
+    },
+    {
+      "shikona": "Hoshoryu",
+      "id": 7,
+      "rank": "S",
+      "highestrank": "S",
+      "yusho": 0,
+      "kinboshi": 0,
+      "fsAki": 10,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20170096.jpg"
+    },
+    {
+      "shikona": "Daieisho",
+      "id": 8,
+      "rank": "S",
+      "highestrank": "S",
+      "yusho": 1,
+      "kinboshi": 3,
+      "fsAki": 9,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20120003.jpg"
+    },
+    {
+      "shikona": "Abi",
+      "id": 9,
+      "rank": "K",
+      "highestrank": "S",
+      "yusho": 0,
+      "kinboshi": 3,
+      "fsAki": 0,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20130059.jpg"
+    },
+    {
+      "shikona": "Ichinojo",
+      "id": 10,
+      "rank": "K",
+      "highestrank": "S",
+      "yusho": 1,
+      "kinboshi": 8,
+      "fsAki": 10,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20130077.jpg"
+    },
+    {
+      "shikona": "Kiribayama",
+      "id": 11,
+      "rank": "K",
+      "highestrank": "K",
+      "yusho": 0,
+      "kinboshi": 0,
+      "fsAki": 17,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20150034.jpg"
+    },
+    {
+      "shikona": "Tobizaru",
+      "id": 12,
+      "rank": "M1",
+      "highestrank": 1,
+      "yusho": 0,
+      "kinboshi": 1,
+      "fsAki": 26,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20150005.jpg"
+    },
+    {
+      "shikona": "Midorifuji",
+      "id": 13,
+      "rank": "M1",
+      "highestrank": 1,
+      "yusho": 0,
+      "kinboshi": 0,
+      "fsAki": 15,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20160082.jpg"
+    },
+    {
+      "shikona": "Kotonowaka",
+      "id": 14,
+      "rank": "M2",
+      "highestrank": 2,
+      "yusho": 0,
+      "kinboshi": 0,
+      "fsAki": 19,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20150081.jpg"
+    },
+    {
+      "shikona": "Meisei",
+      "id": 15,
+      "rank": "M2",
+      "highestrank": "S",
+      "yusho": 0,
+      "kinboshi": 0,
+      "fsAki": 18,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20110029.jpg"
+    },
+    {
+      "shikona": "Ura",
+      "id": 16,
+      "rank": "M3",
+      "highestrank": 1,
+      "yusho": 0,
+      "kinboshi": 2,
+      "fsAki": 19,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20150028.jpg"
+    },
+    {
+      "shikona": "Tamawashi",
+      "id": 4,
+      "rank": "M3",
+      "highestrank": "S",
+      "yusho": 2,
+      "kinboshi": 7,
+      "fsAki": 40,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20040005.jpg"
+    },
+    {
+      "shikona": "Nishikigi",
+      "id": 17,
+      "rank": "M4",
+      "highestrank": 2,
+      "yusho": 0,
+      "kinboshi": 1,
+      "fsAki": 9,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20060025.jpg"
+    },
+    {
+      "shikona": "Takayasu",
+      "id": 18,
+      "rank": "M4",
+      "highestrank": "O",
+      "yusho": 0,
+      "kinboshi": 5,
+      "fsAki": 25,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20050022.jpg"
+    },
+    {
+      "shikona": "Takarafuji",
+      "id": 19,
+      "rank": "M5",
+      "highestrank": "S",
+      "yusho": 0,
+      "kinboshi": 3,
+      "fsAki": 5,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20090004.jpg"
+    },
+    {
+      "shikona": "Sadanoumi",
+      "id": 20,
+      "rank": "M5",
+      "highestrank": 1,
+      "yusho": 0,
+      "kinboshi": 1,
+      "fsAki": 14,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20030054.jpg"
+    },
+    {
+      "shikona": "Wakamotoharu",
+      "id": 21,
+      "rank": "M6",
+      "highestrank": 4,
+      "yusho": 0,
+      "kinboshi": 0,
+      "fsAki": 15,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20110065.jpg"
+    },
+    {
+      "shikona": "Endo",
+      "id": 22,
+      "rank": "M6",
+      "highestrank": "K",
+      "yusho": 0,
+      "kinboshi": 6,
+      "fsAki": 10,
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20130036.jpg"
+    },
+    {
+      "shikona": "Aoiyama",
+      "rank": "M7",
+      "highestrank": "S",
+      "yusho": "0",
+      "kinboshi": "1",
+      "fsAki": "6",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20090067.jpg",
+      "id": 23
+    },
+    {
+      "shikona": "Onosho",
+      "rank": "M7",
+      "highestrank": "K",
+      "yusho": "0",
+      "kinboshi": "2",
+      "fsAki": "5",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20130005.jpg",
+      "id": 24
+    },
+    {
+      "shikona": "Tochinoshin",
+      "rank": "M8",
+      "highestrank": "O",
+      "yusho": "1",
+      "kinboshi": "2",
+      "fsAki": "8",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20060028.jpg",
+      "id": 25
+    },
+    {
+      "shikona": "Hokutofuji",
+      "rank": "M8",
+      "highestrank": "K",
+      "yusho": "0",
+      "kinboshi": "7",
+      "fsAki": "10",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20150042.jpg",
+      "id": 26
+    },
+    {
+      "shikona": "Myogiryu",
+      "rank": "M9",
+      "highestrank": "S",
+      "yusho": "0",
+      "kinboshi": "6",
+      "fsAki": "8",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20090065.jpg",
+      "id": 27
+    },
+    {
+      "shikona": "Kotoeko",
+      "rank": "M9",
+      "highestrank": "M4",
+      "yusho": "0",
+      "kinboshi": "0",
+      "fsAki": "6",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20070057.jpg",
+      "id": 28
+    },
+    {
+      "shikona": "Nishikifuji",
+      "rank": "M10",
+      "highestrank": "M10",
+      "yusho": "0",
+      "kinboshi": "0",
+      "fsAki": "10",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20160081.jpg",
+      "id": 29
+    },
+    {
+      "shikona": "Takanosho",
+      "rank": "M10",
+      "highestrank": "S",
+      "yusho": "0",
+      "kinboshi": "1",
+      "fsAki": "8",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20100039.jpg",
+      "id": 30
+    },
+    {
+      "shikona": "Kotoshoho",
+      "rank": "M11",
+      "highestrank": "M3",
+      "yusho": "0",
+      "kinboshi": "0",
+      "fsAki": "7",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20170094.jpg",
+      "id": 31
+    },
+    {
+      "shikona": "Chiyotairyu",
+      "rank": "M11",
+      "highestrank": "K",
+      "yusho": "0",
+      "kinboshi": "3",
+      "fsAki": "6",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20110015.jpg",
+      "id": 32
+    },
+    {
+      "shikona": "Okinoumi",
+      "rank": "M12",
+      "highestrank": "S",
+      "yusho": "0",
+      "kinboshi": "4",
+      "fsAki": "6",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20050003.jpg",
+      "id": 33
+    },
+    {
+      "shikona": "Ryuden",
+      "rank": "M12",
+      "highestrank": "K",
+      "yusho": "0",
+      "kinboshi": "0",
+      "fsAki": "11",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20060023.jpg",
+      "id": 34
+    },
+    {
+      "shikona": "Ichiyamamoto",
+      "rank": "M13",
+      "highestrank": "M13",
+      "yusho": "0",
+      "kinboshi": "0",
+      "fsAki": "6",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20170002.jpg",
+      "id": 35
+    },
+    {
+      "shikona": "Oho",
+      "rank": "M13",
+      "highestrank": "M13",
+      "yusho": "0",
+      "kinboshi": "0",
+      "fsAki": "7",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20180002.jpg",
+      "id": 37
+    },
+    {
+      "shikona": "Chiyoshoma",
+      "rank": "M14",
+      "highestrank": "M2",
+      "yusho": "0",
+      "kinboshi": "0",
+      "fsAki": "9",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20090066.jpg",
+      "id": 38
+    },
+    {
+      "shikona": "Yutakayama",
+      "rank": "M14",
+      "highestrank": "M1",
+      "yusho": "0",
+      "kinboshi": "0",
+      "fsAki": "4",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20160020.jpg",
+      "id": 39
+    },
+    {
+      "shikona": "Terutsuyoshi",
+      "rank": "M15",
+      "highestrank": "M7",
+      "yusho": "0",
+      "kinboshi": "0",
+      "fsAki": "6",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20100052.jpg",
+      "id": 40
+    },
+    {
+      "shikona": "Tsurugisho",
+      "rank": "M15",
+      "highestrank": "M7",
+      "yusho": "0",
+      "kinboshi": "0",
+      "fsAki": "5",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20140002.jpg",
+      "id": 41
+    },
+    {
+      "shikona": "Mitoryu",
+      "rank": "M16",
+      "highestrank": "M16",
+      "yusho": "0",
+      "kinboshi": "0",
+      "fsAki": "5",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20170047.jpg",
+      "id": 36
+    },
+    {
+      "shikona": "Hiradoumi",
+      "rank": "M16",
+      "highestrank": "M16",
+      "yusho": "0",
+      "kinboshi": "0",
+      "fsAki": "7",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20160042.jpg",
+      "id": 42
+    },
+    {
+      "shikona": "Kagayaki",
+      "rank": "J",
+      "highestrank": "M4",
+      "yusho": "0",
+      "kinboshi": "0",
+      "fsAki": "0",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20100029.jpg",
+      "id": 43
+    },
+    {
+      "shikona": "Chiyomaru",
+      "rank": "J",
+      "highestrank": "M5",
+      "yusho": "0",
+      "kinboshi": "0",
+      "fsAki": "0",
+      "img": "http://sumo.or.jp/img/sumo_data/rikishi/60x60/20070085.jpg",
+      "id": 44
+    }
+  ]
+}

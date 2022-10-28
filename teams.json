@@ -1,0 +1,37 @@
+{
+  "teams": [
+    {
+      "r1": "Shodai",
+      "r2": "Meisei",
+      "r3": "Takarafuji",
+      "r4": "Nishikifuji",
+      "r5": "Oho",
+      "r6": "Wakatakakage",
+      "r7": "Kagayaki",
+      "username": "todd",
+      "id": 1
+    },
+    {
+      "r1": "Wakatakakage",
+      "r2": "Kotonowaka",
+      "r3": "Wakamotoharu",
+      "r4": "Takanosho",
+      "r5": "Oho",
+      "r6": "Tamawashi",
+      "r7": "Chiyomaru",
+      "username": "mason",
+      "id": 2
+    },
+    {
+      "r1": "Takakeisho",
+      "r2": "Nishikigi",
+      "r3": "Endo",
+      "r4": "Myogiryu",
+      "r5": "Tsurugisho",
+      "r6": "Mitakeumi",
+      "r7": "Chiyomaru",
+      "username": "JM",
+      "id": 3
+    }
+  ]
+}
