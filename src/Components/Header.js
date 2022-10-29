@@ -1,10 +1,11 @@
 import React from "react";
 
-function Header ({formState, handleFormClick}) {
+function Header ({viewState, handleFormClick}) {
     return (
         <div>
             <h1>SUMO PRIME TIME</h1>
-            {/* <button id="formSwitch" onClick={handleFormClick}>{formState === false ? "add a rikishi to the DB" : "back to home"}</button> */}
+
+            <button id="formSwitch" onClick={handleFormClick}>{viewState === false ? "check the scores" : "add your team"}</button>
         </div>
     )
 }

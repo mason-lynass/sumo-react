@@ -6,12 +6,13 @@ import RikishiLarge from "./Components/RikishiLarge";
 import ScrollCard from "./Components/ScrollCard";
 import Header from './Components/Header';
 import FSTeam from "./Components/FSTeam";
+import Teams from "./Components/Teams"
 
 
 function App() {
   
   const [rikishi, setRikishi] = useState([])
-  const [formState, setFormState] = useState(false)
+  const [viewState, setViewState] = useState(false)
   const [clickedRikishi, setClickedRikishi] = useState()
   const [teams, setTeams] = useState([])
   const [userTeam, setUserTeam] = useState({
@@ -24,6 +25,12 @@ function App() {
     r7: "",
     username: ""
   })
+
+    useEffect(() => {
+        fetch('http://localhost:4001/teams')
+        .then(r => r.json())
+        .then((teams) => setTeams(teams))
+    }, [])
   
 
   useEffect(() => {
@@ -33,7 +40,7 @@ function App() {
   }, [])
 
   function handleFormClick () {
-    setFormState(!formState)
+    setViewState(!viewState)
   }
 
   function handleFormSubmit(newRikishi) {
@@ -100,12 +107,13 @@ function App() {
   
   return (
     <div className="App">
-      <Header formState={formState} handleFormClick={handleFormClick}/>
-      {formState === true ?
-        <RikishiForm onFormSubmit={handleFormSubmit} /> :
+      <Header viewState={viewState} handleFormClick={handleFormClick}/>
+      {viewState === true ?
+        // <RikishiForm onFormSubmit={handleFormSubmit} /> 
+        <Teams teams={teams}/>:
         <div>
           <div className="mainFlex">
-            <FSTeam userTeam={userTeam} handleTeamFormChange={handleTeamFormChange} handleTeamFormSubmit={handleTeamFormSubmit}/>
+            <FSTeam userTeam={userTeam} setUserTeam={setUserTeam} handleTeamFormChange={handleTeamFormChange} handleTeamFormSubmit={handleTeamFormSubmit}/>
             <RikishiLarge clickedRikishi={clickedRikishi} handleAddToTeam={handleAddToTeam} handleCardClick={handleCardClick}/>
           </div>
         <RikishiList rikishi={rikishi} handleCardClick={handleCardClick}/>
